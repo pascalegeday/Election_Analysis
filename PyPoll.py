@@ -120,6 +120,7 @@ with open(file_to_save, "w") as txt_file:
 
 
 
+
 #BELOW STARTS PRACTICE CODE (DISREGARD FOR ANALYSIS)
     #print(election_data)
 #Use the with statement to open the file as a text file
