@@ -16,12 +16,12 @@ County-Based Analysis
 2. Calculate the percentage of votes from each county out of the total count
 3. Determine the county with the highest turnout
 
-## Resources
+### Resources
 * Data Source: election_results.csv
 * Software: Python 3.8.9, Visual Studio Code, 1.63.0
 
-## Candidate-Based Analysis
-### Election Audit Results
+## Election Audit Results
+### Candidate-Based Analysis
 The analysis of the election show that:
 * There were 369,711 votes cast in the election. 
 * The candidates were:
@@ -35,8 +35,7 @@ The analysis of the election show that:
 * The winner of the election was: 
   * Diana DeGette, who received 73.8% of the vote and 272,892 number of votes. 
 
-## County-Based Analysis
-### Election Audit Results
+### County-Based Analysis
 The analysis of the election show that: 
 * The county results were:
   * Jefferson county received 10.5% of the votes with 38,855 total votes.
@@ -45,5 +44,4 @@ The analysis of the election show that:
 * The county with the largest voter turnout was Denver. 
 
 ## Election Audit Summary
-
 
