@@ -44,4 +44,7 @@ The analysis of the election show that:
 * The county with the largest voter turnout was Denver. 
 
 ## Election Audit Summary
+This script is beneficial because it can be used to analyze the results of any election.
+Depending on whether the election being analyzed is a presidential, congressional, state, or local election, certain variables can be modified to match the data that is being used. For example, if we are looking at a presidential election, instead of look at "county_votes" and the "county_options", we can change the variables to "state_votes" and "state_options" and be sure to adjust the names down the script. 
+That being said, it is important to also take a look at how the new set of data is organized, depending on the ways in which it is organized we can modify the index when attempting to extract the candidate and state names from each row.
 
