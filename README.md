@@ -1,5 +1,5 @@
-# Election_Analysis
-Analysis of Election Data Using Python 
+# Election Analysis
+Analysis of Recent Local Congressional Election Data Using Python 
 
 ## Project Overview
 A Colorado Board of Elections employee has given me the following tasks to complete the election audit of a recent local congressional election. 
